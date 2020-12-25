@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=TGSGZOIN
 
 [Document2]
-DocumentPath=lib\Switch-lib.SchLib
+DocumentPath=lib\Chip-lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,6 +72,40 @@ GenerateClassCluster=0
 DocumentUniqueId=MJGLZUIM
 
 [Document3]
+DocumentPath=lib\Amplifier-lib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MJGLZUIM
+
+[Document4]
+DocumentPath=lib\Switch-lib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MJGLZUIM
+
+[Document5]
 DocumentPath=lib\Common-lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,8 +122,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXNPAUCR
 
-[Document4]
-DocumentPath=lib\dioxide-lib.SchLib
+[Document6]
+DocumentPath=lib\Dioxide-lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -105,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YOTECMRS
 
-[Document5]
+[Document7]
 DocumentPath=lib\Capacitor-lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXNPAUCR
 
-[Document6]
+[Document8]
 DocumentPath=lib\Nixie-lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJGLZUIM
 
-[Document7]
+[Document9]
 DocumentPath=lib\Resistor-lib.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
